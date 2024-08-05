@@ -1,0 +1,10 @@
+h1 {
+  background-color: aqua;
+  text-align: center;
+  color: black;
+  border: 1px solid red;
+}
+span {
+  background-color: yellow;
+  color: black;
+}
